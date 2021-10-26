@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-    <title>SAD Morón - Formularios</title>
+    <title>SAD Morón beta - Formularios</title>
     <!--LIKNS Y SCRIPTS PARA EL USO DE MATERIAL ICONS, MATERIALIZE Y JQUERY-->
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <script src="js/jquery.js"></script> 
